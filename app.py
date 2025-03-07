@@ -7,6 +7,7 @@ Menu
 3. Poori
 4.Biriyani
 5.icecream
+6.gobi
 
 """
 )
