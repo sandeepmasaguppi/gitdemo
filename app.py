@@ -1,4 +1,3 @@
-print('example for git')
 print(
     """
 Menu
